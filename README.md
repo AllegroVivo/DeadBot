@@ -1,2 +1,2 @@
-# DeadBotv2
+# DeadBot
 Version==1.0.0
